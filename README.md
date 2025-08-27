@@ -1,7 +1,6 @@
 # CurateAI - Next-Gen NFT Discovery Platform
 
-<img width="1939" height="1048" alt="image" src="https://github.com/user-attachments/assets/03d94f78-a43b-4849-bcbe-29a7d2196b8e" />
-
+<img width="2054" height="1056" alt="image" src="https://github.com/user-attachments/assets/59a7b016-f07c-448d-a0e1-05d6367f3679" />
 
 A modern, AI-powered NFT discovery and curation platform built with Next.js, React, and TypeScript.
 
